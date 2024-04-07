@@ -1,3 +1,5 @@
+## Komennot mitä käytin tehtävän tekemiseen
+
 git init
 
 git add README.md
